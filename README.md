@@ -41,4 +41,4 @@ However, it has so many features, functions, tools, formatting options, etc. tha
 
 3. "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
 
-**Thanks for reading :)
+**Thanks for reading :)**
