@@ -33,7 +33,6 @@ Having above in mind, I structured the project in following **main steps**:
 
 1. One of the main challenges was to select a raw dataset to be used for the dashboard creation, without the need of data processing.  
 My main lesson learned with regards to dataset selection is that rather than investing time to select an "apparently clean dataset", it would have been better to invest time on doing some data wrangling/cleaning by myself by using Python/SQL.
-
 Despite at first sight the dataset looked as "clean", the reality is that it was not cleaned at all and I believe I could have extracted much more insights if I had processed the data first. 
 As for example, adding a column for Country, format price to same currency (e.g. EUR or USD), or format the type of Cuisine, could lead to additional insights/meaningful information to show in the Dashboard. 
 
@@ -42,4 +41,4 @@ However, it has so many features, functions, tools, formatting options, etc. tha
 
 3. "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
 
-**Thanks for reading :)**
+## Thanks for reading :)
