@@ -37,8 +37,8 @@ Despite at first sight the dataset looked as "clean", the reality is that it was
 As for example, adding a column for Country, format price to same currency (e.g. EUR or USD), or format the type of Cuisine, could lead to additional insights/meaningful information to show in the Dashboard. 
 
 2. Another important lesson learned during my practice is that PowerBi is a powerful tool for data visualization, with an intuitive and user-friendly interface.
-However, it has so many features, functions, tools, formatting options, etc. that would need further time investment. 
+However, it has so many features, functions, tools, formatting options, etc. that requires time and practice. 
 
 3. "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
 
-**Thanks for reading :)**
+**Thanks for reading! :)**
