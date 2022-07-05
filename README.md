@@ -1,5 +1,4 @@
 # Project: Business Intelligence with PowerBI
-![cover](pictures/DataVisualization.jpg)
 
 ## Project Overview
 The goal of this project was to practice with visualization tools, in this case with **PowerBI**.
