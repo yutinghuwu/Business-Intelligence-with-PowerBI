@@ -12,7 +12,7 @@ As part of my learning process, I reached to the conclusion that following **tip
 - Provide format. Whenever possible, do not keep on default settings.
 - Whenever numbers are shown, make sure they have same format (units and decimals) and all of them can be properly seen.
 - Give structure to the layout and color design.
-- Fit to board size and avoid scrolls.
+- Dashboard size is limited, so it is important to fit to board size and avoid scrolls.
 
 Having above in mind, I structured the project in following **main steps**:
 1. Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
