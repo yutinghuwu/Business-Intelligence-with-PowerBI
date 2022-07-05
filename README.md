@@ -16,20 +16,30 @@ As part of my learning process, I reached to the conclusion that following **tip
 
 Having above in mind, I structured the project in following **main steps**:
 **a)** Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
+
 **b)** Along with the tips mentioned above, I started doing a mock-up of the key graphs to show, with objective of setting the main structure. 
+
 **c)** Format and filter the data to show. 
+
 **d)** Fit everything to size and format the graphs plotted: slicers, cards, bar chart, donut chart, map.
+
 **e)** Add headers / titles wherever deemed useful. 
+
 **f)** Color design.
+
 **g)** Added some pictures, added action to one of them to source dataset URL.
+
 **h)** Edit interactions between graphs, kept bar chart as fixed, with no interactions with other graphs.
+
 **i)** Did some practice with roles management, and created one role per region as sample. 
+
 **j)** Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
 
 ## 3. Dashboard results
 ![dashboard](dashboard.JPG)
 
 ## 4. Lessons learned
+
 **a)** One of the main challenges was to select a raw dataset to be used for the dashboard creation, without the need of data processing.  
 My main lesson learned with regards to dataset selection is that rather than investing time to select an "apparently clean dataset", it would have been better to invest time on doing some data wrangling/cleaning by myself by using Python/SQL.
 
