@@ -27,7 +27,7 @@ Having above in mind, I structured the project in following **main steps**:
 10. Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
 
 ## Dashboard results
-![dashboard](dashboard.JPG)
+![dashboard](pictures/dashboard.JPG)
 
 ## Lessons learned
 
