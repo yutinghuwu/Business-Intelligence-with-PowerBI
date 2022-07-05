@@ -2,7 +2,7 @@
 ![cover](cover.jpg)
 
 ## 1. Project Overview
-The goal of this project was to practice with visualization tools, in this case with PowerBI.
+The goal of this project was to practice with visualization tools, in this case with **PowerBI**.
 With aim of investing the time on Data visualization to the maximum extent, I've chosen a dataset from Kaggle (https://www.kaggle.com/datasets/ngshiheng/michelin-guide-restaurants-2021), and directly imported this raw data and explored it using PowerBI, in order to create a Dashboard to show some of the insights derived from that data.
 
 ## 2 Steps 
