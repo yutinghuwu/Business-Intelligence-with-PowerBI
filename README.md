@@ -6,7 +6,7 @@ The goal of this project was to practice with visualization tools, in this case 
 
 With aim of investing the time on practicing with PowerBI to the maximum extent, I've chosen a raw dataset from Kaggle (https://www.kaggle.com/datasets/ngshiheng/michelin-guide-restaurants-2021) from where I saw I can get insights without data processing, so I can directly import this raw data and start exploring it using PowerBI, and create a Dashboard to show these insights derived from the data.
 
-## 2 Steps 
+## 2. Steps 
 As part of my learning process, I reached to the conclusion that following tips are important before and during the development of a Dashboard:
 - Show clear and relevant information only. Remove redundant / not useful information.
 - Provide format. Whenever possible, do not keep on default settings.
