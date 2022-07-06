@@ -15,32 +15,40 @@ As part of my learning process, I reached to the conclusion that following **tip
 - Dashboard size is limited, so it is important to fit to board size and avoid scrolls.
 
 Having above in mind, I structured the project in following **main steps**:
-* Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
-* Along with the tips mentioned above, I started doing a mock-up of the key graphs to show, with objective of setting the main structure. 
-* Format and filter the data to show. 
-* Fit everything to size and format the graphs plotted: slicers, cards, bar chart, donut chart, map.
-* Add headers / titles wherever deemed useful. 
-* Color design.
-* Added some pictures, added action to one of them to source dataset URL.
-* Edit interactions between graphs, kept bar chart as fixed, with no interactions with other graphs.
-* Did some practice with roles management, and created one role per region as sample. 
-* Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
+
+:one: Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
+
+:two: Along with the tips mentioned above, I started doing a mock-up of the key graphs to show, with objective of setting the main structure. 
+
+:three: Format and filter the data to show. 
+
+:four: Fit everything to size and format the graphs plotted: slicers, cards, bar chart, donut chart, map.
+
+:five: Add headers / titles wherever deemed useful. 
+
+:six: Color design.
+
+:seven: Added some pictures, added action to one of them to source dataset URL.
+
+:eight:Edit interactions between graphs, kept bar chart as fixed, with no interactions with other graphs.
+
+:nine: Did some practice with roles management, and created one role per region as sample. 
+
+:keycap_ten: Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
 
 ## 3. Dashboard
 ![dashboard](pictures/dashboard.JPG)
 
-## 4. Conclusions 
+## 4. Lessons learned
 
-## 5. Lessons learned
-
-5.1. One of the main challenges was to select a raw dataset to be used for the dashboard creation, without the need of data processing.  
+:pencil2: One of the main challenges was to select a raw dataset to be used for the dashboard creation, without the need of data processing.  
 My main lesson learned with regards to dataset selection is that rather than investing time to select an "apparently clean dataset", it would have been better to invest time on doing some data wrangling/cleaning by myself by using Python/SQL.
 Despite at first sight the dataset looked as "clean", the reality is that it was not cleaned at all and I believe I could have extracted much more insights if I had processed the data first. 
 As for example, adding a column for Country, format price to same currency (e.g. EUR or USD), or format the type of Cuisine, could lead to additional insights/meaningful information to show in the Dashboard. 
 
-5.2. Another important lesson learned during my practice is that PowerBi is a powerful tool for data visualization, with an intuitive and user-friendly interface.
+:pencil2: Another important lesson learned during my practice is that PowerBi is a powerful tool for data visualization, with an intuitive and user-friendly interface.
 However, it has so many features, functions, tools, formatting options, etc. that requires time and practice. 
 
-5.3. "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
+:pencil2: "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
 
-**Thanks for reading! :)**
+**Thanks for reading! :smiley:**
