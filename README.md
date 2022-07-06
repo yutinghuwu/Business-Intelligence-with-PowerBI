@@ -15,16 +15,16 @@ As part of my learning process, I reached to the conclusion that following **tip
 - Dashboard size is limited, so it is important to fit to board size and avoid scrolls.
 
 Having above in mind, I structured the project in following **main steps**:
-2.1. Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
-2.2. Along with the tips mentioned above, I started doing a mock-up of the key graphs to show, with objective of setting the main structure. 
-2.3. Format and filter the data to show. 
-2.4. Fit everything to size and format the graphs plotted: slicers, cards, bar chart, donut chart, map.
-2.5. Add headers / titles wherever deemed useful. 
-2.6. Color design.
-2.7. Added some pictures, added action to one of them to source dataset URL.
-2.8. Edit interactions between graphs, kept bar chart as fixed, with no interactions with other graphs.
-2.9. Did some practice with roles management, and created one role per region as sample. 
-2.10. Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
+*2.1. Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
+*2.2. Along with the tips mentioned above, I started doing a mock-up of the key graphs to show, with objective of setting the main structure. 
+*2.3. Format and filter the data to show. 
+*2.4. Fit everything to size and format the graphs plotted: slicers, cards, bar chart, donut chart, map.
+*2.5. Add headers / titles wherever deemed useful. 
+*2.6. Color design.
+*2.7. Added some pictures, added action to one of them to source dataset URL.
+*2.8. Edit interactions between graphs, kept bar chart as fixed, with no interactions with other graphs.
+*2.9. Did some practice with roles management, and created one role per region as sample. 
+*2.10. Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
 
 ## 3. Dashboard
 ![dashboard](pictures/dashboard.JPG)
