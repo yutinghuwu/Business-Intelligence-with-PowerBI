@@ -1,10 +1,9 @@
 # Project: Business Intelligence with PowerBI
-![cover](cover.jpg)
 
 ## Project Overview
 The goal of this project was to practice with visualization tools, in this case with **PowerBI**.
 
-With aim of investing the time on practicing with PowerBI to the maximum extent, I've chosen a raw dataset from Kaggle (https://www.kaggle.com/datasets/ngshiheng/michelin-guide-restaurants-2021) from where I saw I can get insights without data processing, so I can directly import this raw data and start exploring it using PowerBI, and create a Dashboard to show these insights derived from the data.
+With aim of investing the time on practicing with PowerBI to the maximum extent, I've chosen a raw dataset from Kaggle (https://www.kaggle.com/datasets/ngshiheng/michelin-guide-restaurants-2021) from where a brief overview I saw I can get insights without further data processing, so I can directly import the raw data, start exploring it using PowerBI, and create a Dashboard to show these insights derived from the data.
 
 ## Steps 
 As part of my learning process, I reached to the conclusion that following **tips** are important before and during the development of a Dashboard:
@@ -12,7 +11,7 @@ As part of my learning process, I reached to the conclusion that following **tip
 - Provide format. Whenever possible, do not keep on default settings.
 - Whenever numbers are shown, make sure they have same format (units and decimals) and all of them can be properly seen.
 - Give structure to the layout and color design.
-- Fit to board size and avoid scrolls.
+- Dashboard size is limited, so it is important to fit to board size and avoid scrolls.
 
 Having above in mind, I structured the project in following **main steps**:
 1. Explore the data inside PowerBI (section "Data"), to extract the variety of visualizations that can be potentially included in my Dashboard.
@@ -27,7 +26,7 @@ Having above in mind, I structured the project in following **main steps**:
 10. Finally, I dived into self-learning about how PowerBI interacts with PowerQuery and how to publish reports online in PowerBI Service.
 
 ## Dashboard results
-![dashboard](dashboard.JPG)
+![dashboard](pictures/dashboard.JPG)
 
 ## Lessons learned
 
@@ -37,8 +36,8 @@ Despite at first sight the dataset looked as "clean", the reality is that it was
 As for example, adding a column for Country, format price to same currency (e.g. EUR or USD), or format the type of Cuisine, could lead to additional insights/meaningful information to show in the Dashboard. 
 
 2. Another important lesson learned during my practice is that PowerBi is a powerful tool for data visualization, with an intuitive and user-friendly interface.
-However, it has so many features, functions, tools, formatting options, etc. that would need further time investment. 
+However, it has so many features, functions, tools, formatting options, etc. that requires time and practice. 
 
 3. "Learning by doing" and "practice makes perfect" are the best tecniques to get to be a PowerBI user expert!
 
-**Thanks for reading :)**
+**Thanks for reading! :)**
